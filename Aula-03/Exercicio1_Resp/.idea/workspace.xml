@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d81aff-1ade-42f4-9e46-4f0b12363162" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2_Resp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2_Resp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2_Resp/src/main/java/Motor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio2_Resp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio2_Resp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2_Resp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio2_Resp/Exercicio2_Resp.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661309827774</updated>
-      <workItem from="1661309829448" duration="322000" />
+      <workItem from="1661309829448" duration="742000" />
     </task>
     <servers />
   </component>
