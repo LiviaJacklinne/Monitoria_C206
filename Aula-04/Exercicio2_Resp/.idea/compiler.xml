@@ -6,13 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Aula-04_ex2" />
-        <module name="Aula-04" />
+        <module name="Exercicio2_Resp" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Aula-04" target="18" />
-      <module name="Aula-04_ex2" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
