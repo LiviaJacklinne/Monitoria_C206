@@ -22,16 +22,21 @@ public class Main_ArrayInt
 
         System.out.println("Array ordenado");
         Collections.sort(inteiros);
+        System.out.println(inteiros);
         System.out.println("\n");
 
         System.out.println("Array decrescente");
         Collections.reverse(inteiros);
+        System.out.println(inteiros);
         System.out.println("\n");
 
-        /*
+
 
         // Ele retorna a posição do elemento escolhido
         System.out.println(inteiros.indexOf(18));
+
+        // Limpa a lista
+        inteiros.clear();
 
         // Verifica se tem elementos na lista true(vazio) or false
         System.out.println(inteiros.isEmpty());
@@ -39,7 +44,7 @@ public class Main_ArrayInt
         // Limpa a lista
         inteiros.clear();
 
-         */
+
 
     }
 }

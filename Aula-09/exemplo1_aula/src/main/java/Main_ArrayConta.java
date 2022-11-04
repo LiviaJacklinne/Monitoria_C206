@@ -18,7 +18,7 @@ public class Main_ArrayConta
         contas.add(c4);
 
         // Não faz muito sentido, pois vai mostrar só os endereços
-        System.out.println(contas);
+       // System.out.println(contas);
 
 
         // System.out.println("Sem ordenar ");
@@ -26,19 +26,21 @@ public class Main_ArrayConta
         {
             System.out.println("Nome: " + contas.get(i).nome);
             System.out.println("Saldo: " + contas.get(i).saldo);
+            System.out.println(" ");
         }
 
         // tem que implementar na classe Conta
-       // Collections.sort(contas);
+       Collections.sort(contas);
 
 
-        /* System.out.println("Apos ordenação ");
+         System.out.println("Apos ordenação ");
         for (int i=0; i<contas.size(); i++)
         {
             System.out.println("Nome: " + contas.get(i).nome);
             System.out.println("Saldo: " + contas.get(i).saldo);
         }
 
-         */
+
+
     }
 }

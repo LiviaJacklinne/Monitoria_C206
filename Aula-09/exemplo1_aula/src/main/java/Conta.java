@@ -1,4 +1,4 @@
-public class Conta //implements Comparable<Conta>
+public class Conta implements Comparable<Conta>
 {
     public int saldo;
     public String nome;
@@ -13,6 +13,12 @@ public class Conta //implements Comparable<Conta>
     {
         this.nome = nome;
         this.saldo = saldo;
+    }
+
+    @Override
+    public int compareTo(Conta c) {
+        return nome.compareTo(c.nome);
+
     }
 
     /*
