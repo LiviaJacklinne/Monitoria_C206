@@ -15,6 +15,7 @@ public class Main {
                 if (funcionarios[i] instanceof Professor) {
                     Professor prof = (Professor) funcionarios[i];
                     prof.mostraInfo();
+                    ((Professor)funcionarios[i]).corrigirProvas();
                     prof.corrigirProvas();
                     prof.fazAlgo();
                 } else if (funcionarios[i] instanceof Engenheiro) {
