@@ -6,11 +6,14 @@ public class Main_ArrayList
     {
         // lista genérica
         ArrayList lista = new ArrayList();
+        Conta c = new Conta();
 
         // função para adicionar itens na lista
         lista.add("Kadu");
         lista.add(2022);
         lista.add(true);
+        lista.add("OI");
+        lista.add(c);
 
         System.out.println(lista);
 
